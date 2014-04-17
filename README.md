@@ -1,3 +1,3 @@
 example
 =======
-See this graph at https://github.com/slo2293/whatsup.html
+See this graph at https://slo2293.github.io/example/whatsup.html
